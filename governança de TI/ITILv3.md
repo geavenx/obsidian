@@ -1,4 +1,3 @@
-
 # 1. Estratégias de Serviço
 
 ### O que é
