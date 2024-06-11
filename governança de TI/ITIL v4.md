@@ -20,10 +20,7 @@ O ITIL v4 define quatro dimensões para uma abordagem holística:
 Introduz o gerenciamento de serviços como uma abordagem de sistemas, com componentes interconectados.
 # Sistema de Valor de Serviço (SVS)
 Novo conceito que descreve como aos componentes e atividades da organização trabalham juntos para criar valor, incluindo próprios orientadores, governança, cadeia de valor de serviço, melhoria contínua e práticas.
-## Comparação com ITIL v3
-# Princípios Orientadores 
-Recomendações universais que não estavam presentes nas publicações originais do ITIL v3, mas foram adotadas do ITIL Practitioner.
-# Cadeia de Valor de Serviço
+## Cadeia de Valor de Serviço
 Elemento central do SVS, com seis atividades principais:
 1. Planejar
 2. Melhorar
@@ -31,10 +28,17 @@ Elemento central do SVS, com seis atividades principais:
 4. Projetar e transitar
 5. Obter/construir
 6. Entregar e suportar
-# Melhoria contínua
+## Princípios Orientadores 
+Recomendações universais que não estavam presentes nas publicações originais do ITIL v3, mas foram adotadas do ITIL Practitioner.
+## Melhoria contínua
 Modelo estruturado para identificar e implementar melhorias em todos os níveis da organização, semelhante ao processo de sete etapas do ITIL v3.
-# Práticas
+## Práticas
 O ITIL v4 apresenta 34 práticas em vez de 26 processos, sendo muitas delas correspondentes aos processos do ITIL v3.
+## Comparação com ITIL v3
+- **Foco:** O SVS tem um foco mais amplo na criação de valor para o cliente, enquanto o ciclo de vida do ITIL v3 se concentra na entrega e gerenciamento de serviços de TI.
+- **Componentes:** O SVS inclui princípios orientadores e governança, que não estão presentes no ciclo de vida do ITIL v3, incluindo atividades como engajar e melhorar.
+- **Práticas vs. Processos:** O ITIL v4 substitui os processos do ITIL v3 por práticas, que são mais flexíveis e adaptáveis às necessidades da organização.
+- **Melhoria contínua:** Ambos os modelos enfatizam a melhoria contínua, mas o ITIL v4 oferece um modelo mais estruturado para identificar e implementar melhorias.
 # Ciclo de Vida do Serviço
 O ITIL v4 remove a maioria das referências ao ciclo de vida do serviço, mas mantém a melhoria contínua como conceito-chave.
 # Resumidamente...
