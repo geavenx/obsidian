@@ -1,0 +1,12 @@
+# English version
+Julius Caesar is a famous Roman general who has just returned to Rome after many victories in battle. The people are celebrating him, but some people are worried about his growing power. Cassius and Brutus, two well-respected noblemen, are among those who are worried. They think Caesar is becoming too ambitious and might try to become a king, which would be bad for the Roman Republic. They decide to join a conspiracy to assassinate Caesar.
+
+On the day of the assassination, Caesar is warned by a soothsayer to "Beware the Ides of March," but he ignores the warning. The conspirators, led by Brutus and Cassius, gather around Caesar in the Senate and stab him to death. They believe they have done the right thing for Rome, but they soon find out that not everyone agrees.
+
+Mark Antony, Caesar's loyal friend, gives a powerful speech at Caesar's funeral, turning the people against the conspirators. Brutus and Cassius are forced to flee Rome, and a civil war breaks out. In the end, the conspirators are defeated, and Brutus and Cassius commit suicide. Octavius, Caesar's adopted son, becomes the new ruler of Rome.
+# Versão em português
+Júlio César é um famoso general romano que acaba de retornar a Roma após muitas vitórias em batalha. O povo o celebra, mas algumas pessoas estão preocupadas com seu crescente poder. Cássio e Bruto, dois nobres muito respeitados, estão entre os preocupados. Eles acham que César está se tornando ambicioso demais e pode tentar se tornar rei, o que seria ruim para a República Romana. Eles decidem se juntar a uma conspiração para assassinar César.
+
+No dia do assassinato, César é avisado por um vidente para "Cuidado com os Idos de Março", mas ele ignora o aviso. Os conspiradores, liderados por Bruto e Cássio, se reúnem em torno de César no Senado e o apunhalam até a morte. Eles acreditam que fizeram a coisa certa por Roma, mas logo descobrem que nem todos concordam.
+
+Marco Antônio, amigo leal de César, faz um discurso poderoso no funeral de César, voltando o povo contra os conspiradores. Bruto e Cássio são forçados a fugir de Roma, e uma guerra civil começa. No final, os conspiradores são derrotados e Bruto e Cássio cometem suicídio. Otaviano, filho adotivo de César, torna-se o novo governante de Roma.
