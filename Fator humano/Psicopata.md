@@ -1,4 +1,3 @@
-# O que é
 Psicopatia, que significa literalmente "doença da mente", não se encaixa na visão tradicional de doenças mentais. Psicopatas não são considerados loucos, não sofrem de delírios ou alucinações e não apresentam grande sofrimento mental.
 A psicopatia é um transtorno de personalidade caracterizado por:
 - Falta de empatia e remorso.
