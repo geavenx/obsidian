@@ -1,5 +1,5 @@
+> o papel do itil no gerenciamento de serviços é oferecer uma abordagem baseada nas melhores práticas.
 # 1. Estratégias de Serviço
-
 ### O que é
 A estratégia de serviços do ITIL é um conjunto de objetivos e instrumentos que guiam todo o ciclo de vida dos serviços. ==O objetivo da estratégia de serviços do ITIL é garantir que os serviços sejam entregues de forma a agregar valor ao negócio.==
 #### Gestão de portfólio
