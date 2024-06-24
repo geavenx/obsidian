@@ -23,6 +23,5 @@
 - Um objetivo de controle é uma **declaração do resultado desejado ou proposta a ser alcançada implementando procedimentos de controle em uma atividade em particular**.
 - Modelos de maturidade ajudam a organização a determinar as capacidades atuais do processo.
 - O COBIT pode ser usado junto de outros frameworks para integrar a distribuição dos padrões necessários.
-
 ### Diferença entre gestão e governança de TI
 A gestão de TI se preocupa com o "como fazer", enquanto a governança de TI se concentra no "o que fazer e porquê". A gestão garante que as operações de TI funcionem sem problemas, enquanto a governança garante que essas operações estejam alinhadas com os objetivos estratégicos da organização.

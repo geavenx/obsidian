@@ -14,6 +14,11 @@ COBIT é um framework de boas práticas para a governança e gestão de TI em em
 - **Modelos de Maturidade:** O COBIT utiliza de modelos de maturidade para avaliar a implementação de Governança de TI, permitindo identificar deficiências e planejar melhorias.
 - **Métricas:** O framework define objetivos e métricas em três níveis: TI, processos e atividades, utilizando medidas de resultados e indicadores de performance.
 - **Usuários:** O COBIT é útil para alta direção, executivos de negócios, executivos de negócios, executivos de TI e auditores.
-
+# Domínios do COBIT
+- **Avaliar, Dirigir e Monitorar**
+- **Alinhar, Planejar e Organizar**
+- **Construir, Adquirir e Implementar**
+- **Entregar, Servir e Suportar**
+- **Monitorar, Avaliar e Analisar**
 ### Resumidamente...
 O COBIT é um guia abrangente e prático para empresas que buscam implementar e aprimorar a Governança de TI, alinhando-a aos objetivos de negócio e garantindo o uso eficiente dos recursos de TI.
